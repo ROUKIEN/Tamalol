@@ -1,0 +1,17 @@
+{
+	"mappings":
+	{
+		"keyboard":
+		{
+			"feed" : "F",
+			"heal" : "H",
+			"clean" : "C"
+		},
+		"joystick":
+		{
+			"feed" : "A",
+			"heal" : "B",
+			"clean" : "C"
+		}
+	}
+}
